@@ -1,3 +1,26 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Report">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10725</md:content-id>  <md:title>Ecosystems of Oswego County</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>      <md:uuid>8da7225e-40e5-41fd-9bd6-de46aa806ddd</md:uuid>
-<md:slug>ecosystems-of-oswego-county</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Documentary Collections</md:title>                                <col:content>                    <col:module document="m26895">        <col:featured-links>                      <cnxml:link-group type="example">              <cnxml:link url="http://www.freesound.org/packsViewSingle.php?id=4843">Ox Creek Audio Samples</cnxml:link>              <cnxml:link url="http://oswego.wordpress.com/">Ecosystems of Oswego County</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Report" authors="Bert Jerred">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10725</md:content-id>
+    <md:title>Ecosystems of Oswego County</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>8da7225e-40e5-41fd-9bd6-de46aa806ddd</md:uuid>
+    <md:slug>ecosystems-of-oswego-county</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Documentary Collections</md:title>
+      <col:content>
+        <col:module document="m26895">
+          <col:featured-links>
+            <cnxml:link-group type="example">
+              <cnxml:link url="http://www.freesound.org/packsViewSingle.php?id=4843">Ox Creek Audio Samples</cnxml:link>
+              <cnxml:link url="http://oswego.wordpress.com/">Ecosystems of Oswego County</cnxml:link>
+            </cnxml:link-group>
+          </col:featured-links>
+        </col:module>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
